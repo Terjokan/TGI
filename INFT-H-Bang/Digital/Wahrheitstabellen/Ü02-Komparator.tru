@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<truthTable>
+  <variables>
+    <variable name="A"/>
+    <variable name="B"/>
+  </variables>
+  <results>
+    <result>
+      <name>Y1</name>
+      <values class="BoolTable">0100</values>
+    </result>
+    <result>
+      <name>Y2</name>
+      <values class="BoolTable">1001</values>
+    </result>
+    <result>
+      <name>Y3</name>
+      <values class="BoolTable">0010</values>
+    </result>
+  </results>
+</truthTable>
